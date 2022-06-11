@@ -1,0 +1,16 @@
+WEB
+1
+https://vaswanibrentwood.sharepoint.com/sites/TrackExpense/_vti_bin/owssvr.dll?XMLDATA=1&List={A6A05986-EBB6-4634-B290-EDF03F250671}&View=B997C1FF-F1E2-437E-8A4A-0D1CA7C423B0&RowLimit=0&RootFolder=
+
+Selection={A6A05986-EBB6-4634-B290-EDF03F250671}-B997C1FF-F1E2-437E-8A4A-0D1CA7C423B0
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://vaswanibrentwood.sharepoint.com/sites/TrackExpense/_vti_bin
+SharePointListView=B997C1FF-F1E2-437E-8A4A-0D1CA7C423B0
+SharePointListName={A6A05986-EBB6-4634-B290-EDF03F250671}
+RootFolder=
